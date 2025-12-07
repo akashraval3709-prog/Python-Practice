@@ -1,6 +1,6 @@
 
 # Program: Secure Login System with 3 Attempts
-# Author: [Your Name]
+# Author: [Akash Raval]
 # Purpose: Basic password authentication logic for Cyber Security
 
 # Store the correct password
